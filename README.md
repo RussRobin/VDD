@@ -56,6 +56,11 @@ The example images are taken in spring and summer, where light conditions and ve
 Photos are taken with fixed camera angles: 30, 60 and 90(bird view) degrees.
 
 
+## Benchmarks
+<img src="img/experiment_results.png" alt="visual_color" style="zoom:50%;" />
+
+
+## Usage
 
 **Citation**
 Available soon.
