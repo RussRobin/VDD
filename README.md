@@ -3,7 +3,6 @@ This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentatio
 
 
 ## Download Links
-
 This Dataset is only for non-commercial use. 
 
 **VDD**: 
@@ -33,27 +32,28 @@ We provide config files based on MMSegmentation. Please first go to https://gith
 
 
 ## Introduction
-
 VDD is a dataset featuring varied scenes, camera angles and weather/light conditions of UAV images. We provide 400 pixel-level annotated images with high resolution. Images are categorized into 7 classes: Wall, Roof, Road, Water, Vehicle, Vegetation and Others.
 
 Open space image shown below briefly demo ‘Varied’: scene details(vary because of change of season), camera angles and light/weather conditions vary. We view this as a special way to do data augmentation. Please refer to our paper for details.
 
 **Scene variance**
-
 Many typical scenes are included in VDD dataset: 
 * Municipal residential zones, villas, school and college buildings, and hospitals
 * highways and roads, 
 * Facilities like gyms cantenn and libraries
 * Natural scenes: rivers, lakes and mountains
 * Rural areas: villages and farm fields
+<img src="img/scene.png" alt="visual_color" style="zoom:50%;" />
+
 
 **Time & Light condition variance**
-
 The example images are taken in spring and summer, where light conditions and vegetation changes. There is also a set of photos of the same object but taken at morning and evening respectively.
+<img src="img/time.png" alt="visual_color" style="zoom:50%;" />
+
 
 **Camera angle variance**
-
 Photos are taken with fixed camera angles: 30, 60 and 90(bird view) degrees.
+<img src="img/angle.png" alt="visual_color" style="zoom:50%;" />
 
 
 ## Benchmarks
