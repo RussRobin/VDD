@@ -1,4 +1,4 @@
-# VDD: Varied Drone Dataset
+# VDD: Varied Drone Dataset for Semantic Segmentation
 This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. Please feel free to contact us: russ000robin@gmail.com.
 
 
@@ -43,7 +43,7 @@ Many typical scenes are included in VDD dataset:
 * Facilities like gyms cantenn and libraries
 * Natural scenes: rivers, lakes and mountains
 * Rural areas: villages and farm fields
-<img src="img/scene.png" alt="visual_color" style="zoom:50%;" />
+<img src="img/scene.PNG" alt="visual_color" style="zoom:50%;" />
 
 
 **Time & Light condition variance**
@@ -59,9 +59,18 @@ Photos are taken with fixed camera angles: 30, 60 and 90(bird view) degrees.
 ## Benchmarks
 <img src="img/experiment_results.png" alt="visual_color" style="zoom:50%;" />
 
+## Class id
+| VDD class id |  VDD class    | UDD original class   | UAVid original class |
+|---------|-----------|------|------|
+|0     |  other      |other|background clutter|
+|1     |  wall     |wall|building(roof not included)|
+|2     |  road      |road|road|
+|3     |  vegetation     |vegetation|tree, low vegetation|
+|4     |vehicle|vehicle|moving car, static car|
+|5     |roof|roof|our new annotation|
+|6     |water|our new annotation|our new annotation|
 
 ## Usage
-
 **Citation**
 Available soon.
 
