@@ -1,6 +1,6 @@
 # VDD: Varied Drone Dataset for Semantic Segmentation
 This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. Please feel free to contact us: russ000robin@gmail.com.
-
+Our paper is available at: https://arxiv.org/abs/2305.13608.
 ## Download Links
 This Dataset is only for non-commercial use. 
 
