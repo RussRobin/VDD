@@ -31,6 +31,12 @@ Instructions:
 - [Google Drive](https://drive.google.com/drive/folders/1799udtcNwbCHejy42MEx7L_JqRVvB9Hk?usp=share_link)
 We provide config files based on MMSegmentation. Please first go to https://github.com/open-mmlab/mmsegmentation and download source codes for MMSegmentation. You may then add our uploaded files to corresponding paths in MMSegmentation.
 
+**Papers With Code**
+You may submit your semantic segmentation results on Papers with Code.
+Varied Drone Dataset(VDD): https://paperswithcode.com/paper/vdd-varied-drone-dataset-for-semantic
+Integrated Drone Dataset (IDD): https://paperswithcode.com/dataset/integrated-drone-dataset-for-semantic
+
+
 ## Introduction
 VDD is a dataset featuring varied scenes, camera angles and weather/light conditions of UAV images. We provide 400 pixel-level annotated images with high resolution. Images are categorized into 7 classes: Wall, Roof, Road, Water, Vehicle, Vegetation and Others. We fouc on variance in this dataset. 
 
@@ -71,7 +77,12 @@ Photos are taken with fixed camera angles: 30, 60 and 90(bird view) degrees.
 
 ## Usage
 **Citation**
-Available soon.
+@article{cai2023vdd,
+  title={VDD: Varied Drone Dataset for Semantic Segmentation},
+  author={Cai, Wenxiao and Jin, Ke and Hou, Jinyan and Guo, Cong and Wu, Letian and Yang, Wankou},
+  journal={arXiv preprint arXiv:2305.13608},
+  year={2023}
+}
 
 **Terms of use**
 
