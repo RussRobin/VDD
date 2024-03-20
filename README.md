@@ -32,8 +32,11 @@ Instructions:
 We provide config files based on MMSegmentation. Please first go to https://github.com/open-mmlab/mmsegmentation and download source codes for MMSegmentation. You may then add our uploaded files to corresponding paths in MMSegmentation.
 
 **Papers With Code**
+
 You may submit your semantic segmentation results on Papers with Code.
+
 Varied Drone Dataset(VDD): https://paperswithcode.com/paper/vdd-varied-drone-dataset-for-semantic
+
 Integrated Drone Dataset (IDD): https://paperswithcode.com/dataset/integrated-drone-dataset-for-semantic
 
 
