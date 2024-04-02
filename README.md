@@ -80,12 +80,14 @@ Photos are taken with fixed camera angles: 30, 60 and 90(bird view) degrees.
 
 ## Usage
 **Citation**
+```
 @article{cai2023vdd,
   title={VDD: Varied Drone Dataset for Semantic Segmentation},
   author={Cai, Wenxiao and Jin, Ke and Hou, Jinyan and Guo, Cong and Wu, Letian and Yang, Wankou},
   journal={arXiv preprint arXiv:2305.13608},
   year={2023}
 }
+```
 
 **Terms of use**
 
