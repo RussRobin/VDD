@@ -1,6 +1,5 @@
 # VDD: Varied Drone Dataset for Semantic Segmentation
-This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. Please feel free to contact us: russ000robin@gmail.com.
-Our paper is available at: [[arXiv](https://arxiv.org/abs/2305.13608)].
+This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. Our paper is available at: [[arXiv](https://arxiv.org/abs/2305.13608)].
 
 ## Download Links
 This Dataset is only for non-commercial use. 
@@ -81,6 +80,7 @@ Photos are taken with fixed camera angles: 30, 60 and 90(bird view) degrees.
 
 ## Usage
 **Citation**
+Please feel free to start an issue if you have questions about VDD.
 ```
 @article{cai2023vdd,
   title={VDD: Varied Drone Dataset for Semantic Segmentation},
@@ -94,11 +94,11 @@ Photos are taken with fixed camera angles: 30, 60 and 90(bird view) degrees.
 
 VDD: Varied Drone Dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree:
 
-That the dataset comes “AS IS”, without express or implied warranty. Although every effort has been made to ensure accuracy, the authors (AVAILABLE SOON) do not accept any responsibility for errors or omissions.
-That you include a reference to the Semantic Drone Dataset in any work that makes use of the dataset. For research papers or other media, refer to our paper: AVAILABLE SOON
+That the dataset comes “AS IS”, without express or implied warranty. Although every effort has been made to ensure accuracy, we (Southeast University) do not accept any responsibility for errors or omissions.
+That you include a reference to the Semantic Drone Dataset in any work that makes use of the dataset. For research papers or other media, refer to our paper.
 
 That you do not distribute this dataset or modified versions. It is permissible to distribute derivative works in as far as they are abstract representations of this dataset (such as models trained on it or additional annotations that do not directly include any of our data) and do not allow to recover the dataset or something similar in character.
 
 That you may not use the dataset or any derivative work for commercial purposes as, for example, licensing or selling the data, or using the data with a purpose to procure a commercial gain.
 
-That all rights not expressly granted to you are reserved by the authors (AVAILABLE SOON).
+That all rights not expressly granted to you are reserved by us (Southeast University).
