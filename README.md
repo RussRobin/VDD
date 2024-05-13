@@ -41,7 +41,7 @@ You may submit your semantic segmentation results on Papers with Code.
 
 Varied Drone Dataset(VDD): https://paperswithcode.com/paper/vdd-varied-drone-dataset-for-semantic
 
-Integrated Drone Dataset (IDD): https://paperswithcode.com/dataset/integrated-drone-dataset-for-semantic
+Integrated Drone Dataset(IDD): https://paperswithcode.com/dataset/integrated-drone-dataset-for-semantic
 
 
 ## Introduction
@@ -50,7 +50,7 @@ VDD is a dataset featuring varied scenes, camera angles and weather/light condit
 **Scene variance**
 Many typical scenes are included in VDD dataset: 
 * Municipal residential zones, villas, school and college buildings, and hospitals
-* highways and roads, 
+* Highways and roads, 
 * Facilities like gyms cantenn and libraries
 * Natural scenes: rivers, lakes and mountains
 * Rural areas: villages and farm fields
