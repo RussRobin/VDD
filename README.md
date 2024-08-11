@@ -6,8 +6,8 @@ Cong Guo, [Letian Wu](https://scholar.google.ca/citations?hl=zh-CN&user=HKwCsCkA
 
 * Please note that https://vddvdd.com/ is no longer used for hosting this dataset.
 ## Download Links
-
-If you want to use VDD, please fill out the [Terms of Use form](https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf) and send it to us: `wxcai@stanford.edu`.
+The download links contain: VDD, and our new annotation to UDD & UAVid.
+If you want to use them, please fill out the [Terms of Use form](https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf) and send it to us: `wxcai@stanford.edu`.
 
 This Dataset is only for non-commercial use. 
 
