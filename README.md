@@ -1,8 +1,8 @@
 # VDD: Varied Drone Dataset for Semantic Segmentation
 This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. [[arXiv](https://arxiv.org/abs/2305.13608)].
 
-[Wenxiao Cai](https://russrobin.github.io/), [Ke Jin](https://zju-kejin.github.io/), [Jinyan Hou](https://scholar.google.ca/citations?user=B955zDcAAAAJ&hl=zh-CN&oi=ao),
-Cong Guo, [Letian Wu](https://scholar.google.ca/citations?hl=zh-CN&user=HKwCsCkAAAAJ), [Wankou Yang](https://automation.seu.edu.cn/ywk/list.htm)
+[Wenxiao Cai](https://russrobin.github.io/), [Ke Jin](https://zju-kejin.github.io/), [Jinyan Hou](https://scholar.google.ca/citations?user=B955zDcAAAAJ&hl=en&oi=ao),
+[Cong Guo](https://scholar.google.ca/citations?hl=en&user=-W1AdmoAAAAJ), [Letian Wu](https://scholar.google.ca/citations?user=HKwCsCkAAAAJ&hl=en&oi=ao), [Wankou Yang](https://automation.seu.edu.cn/ywk/list.htm)
 
 * Please note that https://vddvdd.com/ is no longer used for hosting this dataset.
 ## Download Links
