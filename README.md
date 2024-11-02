@@ -1,3 +1,5 @@
+# VDD: Varied Drone Dataset for Semantic Segmentation
+
 <p align="center">
     <a href="https://arxiv.org/abs/2305.13608">
         <img alt="Paper" src="http://img.shields.io/badge/Paper-arXiv%3A2305.13608-B31B1B.svg">
@@ -10,7 +12,6 @@
     </a>
 </p>
 
-# VDD: Varied Drone Dataset for Semantic Segmentation
 This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. [[arXiv](https://arxiv.org/abs/2305.13608)].
 
 [Wenxiao Cai](https://russrobin.github.io/), [Ke Jin](https://zju-kejin.github.io/), [Jinyan Hou](https://scholar.google.ca/citations?user=B955zDcAAAAJ&hl=en&oi=ao),
