@@ -1,3 +1,15 @@
+<p align="center">
+    <a href="https://arxiv.org/abs/2305.13608">
+        <img alt="Paper" src="http://img.shields.io/badge/Paper-arXiv%3A2305.13608-B31B1B.svg">
+    </a>
+    <a href="https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf">
+        <img alt="Download" src="https://img.shields.io/badge/Download-sign this-blue">
+    </a>
+    <a href="mailto:wxcai@stanford.edu">
+        <img alt="Download" src="https://img.shields.io/badge/Download-email us-green">
+    </a>
+</p>
+
 # VDD: Varied Drone Dataset for Semantic Segmentation
 This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. [[arXiv](https://arxiv.org/abs/2305.13608)].
 
