@@ -4,11 +4,11 @@
     <a href="https://arxiv.org/abs/2305.13608">
         <img alt="Paper" src="http://img.shields.io/badge/Paper-📜arXiv%3A2305.13608-B31B1B.svg">
     </a>
-    <a href="https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf">
-        <img alt="Download" src="https://img.shields.io/badge/Download-📃sign this-blue">
+    <a href="https://huggingface.co/datasets/RussRobin/VDD">
+        <img alt="DownloadVDD" src="https://img.shields.io/badge/🤗%20Download VDD-Hugging Face-green">
     </a>
-    <a href="mailto:wxcai@stanford.edu">
-        <img alt="Download" src="https://img.shields.io/badge/Download-📧email us-green">
+    <a href="https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf">
+        <img alt="Terms of Use" src="https://img.shields.io/badge/Terms of Use-Sign and Email us-blue">
     </a>
 </p>
 
@@ -19,10 +19,19 @@ This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentatio
 
 * Please note that https://vddvdd.com/ is no longer used for hosting this dataset.
 ## Download Links
-The download links contain: VDD, and our new annotation to UDD & UAVid.
-If you want to use them, please fill out the [Terms of Use form](https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf) and send it to us: `wxcai@stanford.edu`.
-
 This Dataset is only for non-commercial use. 
+
+Download VDD only: [Hugging Face](https://huggingface.co/datasets/RussRobin/VDD)
+
+**Other resources**
+
+[1] To get Baidu Netdisk download links if you are uncomfortable with Hugging Face;
+
+[2] To download our new annotation to UDD & UAVid;
+
+Please fill out the [Terms of Use](https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf) 
+and send it to: `wxcai@stanford.edu`.
+
 
 **MMSegmentation configs**
 - [Google Drive](https://drive.google.com/drive/folders/1799udtcNwbCHejy42MEx7L_JqRVvB9Hk?usp=share_link)
