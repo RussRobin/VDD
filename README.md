@@ -24,7 +24,7 @@ This Dataset is only for non-commercial use.
 Please fill out the [Terms of Use](https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf) 
 and send it to: `wxcai@stanford.edu`. Then we will:
 
-[1] Grant you access to VDD download linkes on [Hugging Face](https://huggingface.co/datasets/RussRobin/VDD). Please tell us your HF account email if you would like to access VDD on HF.
+[1] Grant you access to VDD on [Hugging Face](https://huggingface.co/datasets/RussRobin/VDD). Please apply for access grant and tell us your HF account email if you would like to access VDD on HF.
 
 [2] Reply with Google Drive and Baidu Netdisk download links if you are uncomfortable with Hugging Face, which include VDD and our new annotation to UDD & UAVid;
 
