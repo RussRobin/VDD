@@ -17,17 +17,14 @@ This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentatio
 [Wenxiao Cai](https://russrobin.github.io/), [Ke Jin](https://zju-kejin.github.io/), [Jinyan Hou](https://scholar.google.ca/citations?user=B955zDcAAAAJ&hl=en&oi=ao),
 [Cong Guo](https://scholar.google.ca/citations?hl=en&user=-W1AdmoAAAAJ), [Letian Wu](https://scholar.google.ca/citations?user=HKwCsCkAAAAJ&hl=en&oi=ao), [Wankou Yang](https://automation.seu.edu.cn/ywk/list.htm)
 
-* Please note that https://vddvdd.com/ is no longer used for hosting this dataset.
 ## Download Links
 This Dataset is only for non-commercial use. 
 
-Please fill out the [Terms of Use](https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf) 
-and send it to: `wxcai@stanford.edu`. Then we will:
+You will be automatically granted access to VDD on [Hugging Face](https://huggingface.co/datasets/RussRobin/VDD).
 
-[1] Grant you access to VDD on [Hugging Face](https://huggingface.co/datasets/RussRobin/VDD). Please apply for access grant and tell us your HF account email if you would like to access VDD on HF.
-
-[2] Reply with Google Drive and Baidu Netdisk download links if you are uncomfortable with Hugging Face, which include VDD and our new annotation to UDD & UAVid;
-
+To access our new annotation to UDD & UAVid,
+please fill out the [Terms of Use](https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf) 
+and send it to: `wxcai@stanford.edu`
 
 **MMSegmentation configs**
 - [Google Drive](https://drive.google.com/drive/folders/1799udtcNwbCHejy42MEx7L_JqRVvB9Hk?usp=share_link)
