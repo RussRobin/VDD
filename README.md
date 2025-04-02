@@ -18,8 +18,7 @@
     </a>
 </p>
 
-This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. 
-(Journal of Visual Communication and Image Representation, 2025 June)
+This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation (Journal of Visual Communication and Image Representation, 2025 June).
 
 [[arXiv](https://arxiv.org/abs/2305.13608)], [[JVCI](https://www.sciencedirect.com/science/article/pii/S1047320325000434)]
 
