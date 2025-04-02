@@ -2,19 +2,26 @@
 
 <p align="center">
     <a href="https://arxiv.org/abs/2305.13608">
-        <img alt="Paper" src="http://img.shields.io/badge/Paper-📜arXiv%3A2305.13608-B31B1B.svg">
+        <img alt="arXiv" src="http://img.shields.io/badge/Paper-📜 arXiv%3A2305.13608-B31B1B.svg">
+    </a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1047320325000434">
+        <img alt="JVCI" src="http://img.shields.io/badge/Paper-📜 JVCI-orange">
     </a>
     <a href="https://huggingface.co/datasets/RussRobin/VDD">
-        <img alt="DownloadVDD" src="https://img.shields.io/badge/🤗%20Download VDD-Hugging Face-green">
+        <img alt="Download VDD" src="https://img.shields.io/badge/🤗%20Download VDD-Hugging Face-yellow">
+    </a>
+    <a href="https://huggingface.co/datasets/RussRobin/IDD">
+        <img alt="Download IDD" src="https://img.shields.io/badge/🤗%20Download IDD-Hugging Face-green">
     </a>
     <a href="https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf">
-        <img alt="Terms of Use" src="https://img.shields.io/badge/Terms of Use-Sign and Email us-blue">
+        <img alt="IDD Terms of Use" src="https://img.shields.io/badge/Terms of Use-Sign and Email us-blue">
     </a>
 </p>
 
-This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. [[arXiv](https://arxiv.org/abs/2305.13608)].
-(Journal of Visual Communication and Image Representation, 2025)
+This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation. 
+(Journal of Visual Communication and Image Representation, 2025 June)
 
+[[arXiv](https://arxiv.org/abs/2305.13608)], [[JVCI](https://www.sciencedirect.com/science/article/pii/S1047320325000434)]
 
 [Wenxiao Cai](https://russrobin.github.io/), [Ke Jin](https://scholar.google.com/citations?user=kT99gQQAAAAJ&hl=en), [Jinyan Hou](https://scholar.google.ca/citations?user=B955zDcAAAAJ&hl=en&oi=ao),
 [Cong Guo](https://scholar.google.ca/citations?hl=en&user=-W1AdmoAAAAJ), [Letian Wu](https://scholar.google.ca/citations?user=HKwCsCkAAAAJ&hl=en&oi=ao), [Wankou Yang](https://automation.seu.edu.cn/ywk/list.htm)
