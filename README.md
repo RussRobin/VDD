@@ -87,11 +87,14 @@ Please feel free to start an issue if you have questions about VDD.
 
 **Citation**
 ```
-@article{cai2023vdd,
-  title={VDD: Varied Drone Dataset for Semantic Segmentation},
+@article{cai2025vdd,
+  title={Vdd: Varied drone dataset for semantic segmentation},
   author={Cai, Wenxiao and Jin, Ke and Hou, Jinyan and Guo, Cong and Wu, Letian and Yang, Wankou},
-  journal={arXiv preprint arXiv:2305.13608},
-  year={2023}
+  journal={Journal of Visual Communication and Image Representation},
+  volume={109},
+  pages={104429},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
