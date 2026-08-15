@@ -13,36 +13,18 @@
     <a href="https://huggingface.co/datasets/RussRobin/IDD">
         <img alt="Download IDD" src="https://img.shields.io/badge/🤗%20Download IDD-Hugging Face-green">
     </a>
-    <a href="https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf">
-        <img alt="IDD Terms of Use" src="https://img.shields.io/badge/Terms of Use-Sign and Email us-blue">
-    </a>
 </p>
 
-This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation (Journal of Visual Communication and Image Representation, 2025 June).
-
-[[arXiv](https://arxiv.org/abs/2305.13608)], [[JVCI](https://www.sciencedirect.com/science/article/pii/S1047320325000434)]
+This is the official repo for VDD: Varied Drone Dataset for Semantic Segmentation (Journal of Visual Communication and Image Representation, 2025 June). [[arXiv](https://arxiv.org/abs/2305.13608)] [[JVCI](https://www.sciencedirect.com/science/article/pii/S1047320325000434)]
 
 ## Download Links
 This Dataset is only for non-commercial use. 
 
-You will be automatically granted access to VDD on [Hugging Face](https://huggingface.co/datasets/RussRobin/VDD).
-
-To access our new annotation to UDD & UAVid,
-please fill out the [Terms of Use](https://github.com/RussRobin/VDD/blob/main/VDD_TermsOfUse.pdf) 
-and send it to: `wxcai@stanford.edu`
+You will be automatically granted access to [VDD](https://huggingface.co/datasets/RussRobin/VDD) and [IDD](https://huggingface.co/datasets/RussRobin/IDD) on Hugging Face.
 
 **MMSegmentation configs**
 - [Google Drive](https://drive.google.com/drive/folders/1799udtcNwbCHejy42MEx7L_JqRVvB9Hk?usp=share_link)
 We provide config files based on MMSegmentation. Please first go to https://github.com/open-mmlab/mmsegmentation and download source codes for MMSegmentation. You may then add our uploaded files to corresponding paths in MMSegmentation.
-
-**Papers With Code**
-
-You may submit your semantic segmentation results on Papers with Code.
-
-Varied Drone Dataset(VDD): https://paperswithcode.com/paper/vdd-varied-drone-dataset-for-semantic
-
-Integrated Drone Dataset(IDD): https://paperswithcode.com/dataset/integrated-drone-dataset-for-semantic
-
 
 ## Introduction
 VDD is a dataset featuring varied scenes, camera angles and weather/light conditions of UAV images. We provide 400 pixel-level annotated images with high resolution. Images are categorized into 7 classes: Wall, Roof, Road, Water, Vehicle, Vegetation and Others. We fouc on variance in this dataset. 
@@ -83,7 +65,7 @@ Photos are taken with fixed camera angles: 30, 60 and 90(bird view) degrees.
 
 
 ## Usage
-Please feel free to start an issue if you have questions about VDD.
+Please feel free to open an issue if you have questions about VDD.
 
 **Citation**
 ```
